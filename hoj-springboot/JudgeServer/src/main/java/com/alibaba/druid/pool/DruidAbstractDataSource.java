@@ -2011,6 +2011,7 @@ public abstract class DruidAbstractDataSource extends WrapperAdapter implements 
         }
     }
 
+    public int a =100;
     public boolean isFailFast() {
         return this.failFast;
     }
